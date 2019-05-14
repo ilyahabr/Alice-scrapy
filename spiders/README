@@ -1,1 +1,4 @@
 
+Spider say7_scraper.py
+run:
+scrapy crawl say7-spider
